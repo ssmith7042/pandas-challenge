@@ -1,1 +1,2 @@
 # pandas-challenge
+This repository contains two data sets that have been analyzed using jupyter notebook. Using basic calculation functions and python dataframe manipulation functions, the data has been collected into several small summarizing dataframes that enhance analysis by isolating variables and aggregating data into summary statistics.  A .txt file gives an overview of the data's general analysis.
